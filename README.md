@@ -1,4 +1,4 @@
-# 🎓 Student Performance Predictor (BYOP)
+#  Student Performance Predictor (BYOP)
 
 ### Project Overview
 This project was developed for the **Fundamentals of AI and ML** course at VIT Bhopal. It uses machine learning to predict student exam scores based on behavioral and academic factors.
